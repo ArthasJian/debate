@@ -1,40 +1,38 @@
-## Welcome to GitHub Pages
+# 202204网络辩论赛
 
-[报名流程](/202204辩论赛报名流程.md)
+## 活动主题
 
-You can use the [editor on GitHub](https://github.com/ArthasJian/debate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+在竞争日益激烈的当今时代，当代大学生必须具备敏捷的思维、快速的应变能力和非凡的口才。为了展示大学生的青春风采，增进思想交流，繁荣校园文化，我院特举办本次网络辩论赛，充分调动同学们的积极性，为提升我校综合实力奠定坚实基础。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 活动目的
 
-### Markdown
+为提高同学们的思辨能力和辩论素质，为培养同学贡献社会的意识，现开展一次辩论赛。由信息学院辩论队队长及教练负责指导。
+希望本次辩论赛可以丰富同学们的思维，提高当代青年的思想素质和思想觉悟，以后积极投入社会，为社会添砖加瓦。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 活动时间
 
-```markdown
-Syntax highlighted code block
+2022年5月8日 18:00-20:00
 
-# Header 1
-## Header 2
-### Header 3
+具体时间请查看[辩论赛报名流程](/202204辩论赛报名流程.md)
 
-- Bulleted
-- List
+## 举办形式
 
-1. Numbered
-2. List
+由于疫情原因，暂时确定为线上。若疫情有所好转，可转为线下进行。
+各位同学请按照线下比赛进行准备。
 
-**Bold** and _Italic_ and `Code` text
+## 辩题
 
-[Link](url) and ![Image](src)
-```
+网络使人亲近[正方]/网络使人疏远[反方]
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 活动规划与安排
 
-### Jekyll Themes
+详情请见[辩论赛报名流程](/202204辩论赛报名流程.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArthasJian/debate/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 下载链接
 
-### Support or Contact
+[辩论赛报名模板](/辩论赛报名模板.xlsx)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [辩论赛报名流程](/202204辩论赛报名流程.md)
 
+主办方：信息学院团委、学生会
+承办方：信息学院团委学生会学习部
